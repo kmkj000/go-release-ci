@@ -22,6 +22,7 @@ func init() {
 	}
 }
 
+// Run is run
 func Run() {
 	fmt.Println(test)
 }
